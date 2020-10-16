@@ -136,6 +136,7 @@ colocar aca debajo la url
 ademas colocar la url en un archivo
 github_<nombre>_<codigo>.txt y subirlo a moodle
 """
+https://github.com/keavy-isabel/Parcial
 
 
 # github url-->
